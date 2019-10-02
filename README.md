@@ -3,7 +3,7 @@
 In this case, this device capabale of detecting smoke, and LPG gas leaks.
 At the same time, the device must be able to provide notifications to the user through a smartphone.
 
-This readme describes every step required to get going with the smoke detector:
+This readme describes every step required to get going with the smoke alert system:
 
 1. [Preparing the materials](https://github.com/RaamPujangga/Smoke-Alert-System-Via-Telegram/tree/master#1-prepare-the-materials)
 2. [Preparing Telegram Bot](https://github.com/RaamPujangga/Smoke-Alert-System-Via-Telegram/tree/master#2-prepare-telegram-bot)
@@ -75,17 +75,18 @@ For the ESP 32, you have to follow installation instructions using Arduino IDE B
 ![image](https://user-images.githubusercontent.com/48588826/65962887-d3657080-e483-11e9-9002-17655a627872.png)
 
 ## 4. Download and Editing the scripts
-Download the [scripts](scripts) and edit **line 15** with your ssid, and edit **line 16** with your ssid password.
+Download the [scripts](https://github.com/RaamPujangga/Smoke-Alert-System-Via-Telegram/blob/master/Smoke_Alert_System_Via_Telegram.rar) and edit **line 15** with your ssid, and edit **line 16** with your ssid password.
 Edit **line 18 & 19**, you have to replace with your BOTtoken & Chat ID.
 
 ## 5. Testing
 Before you start testing, plese make sure these things:
-1. Change the **Boards Manager** to **ESP 32 Dev Module**
-2. Change **Upload Speed** to **115200**
-3. Match the port, by search it on **Device Manager > Ports (COM & LPT)**
+1. Open tools
+2. Change the **Boards Manager** to **ESP 32 Dev Module**
+3. Change **Upload Speed** to **115200**
+4. Match the port, by search it on **Device Manager > Ports (COM & LPT)**
 
 Let's start testing, by following these steps:
-1. Click upload and at the same time, **press + hold the BOOT button on ESP 32**, until it finished
+1. Click upload and at the same time, **press + hold the BOOT button on ESP 32**, until it finished compiling
 2. Open serial monitor, and **press EN button to activate the ESP 32**
 3. If you completed all the steps, it will look like the picture below
 
