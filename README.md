@@ -5,11 +5,11 @@ At the same time, the device must be able to provide notifications to the user t
 
 This readme describes every step required to get going with the smoke detector:
 
-1. Preparing the materials
-2. Preparing Telegram Bot
-3. Downloading and Installing the necessary library
-4. Downloading and Editing the Scripts
-5. Testing
+1. [Preparing the materials](https://github.com/RaamPujangga/Smoke-Alert-System-Via-Telegram/tree/master#1-prepare-the-materials)
+2. [Preparing Telegram Bot](https://github.com/RaamPujangga/Smoke-Alert-System-Via-Telegram/tree/master#2-prepare-telegram-bot)
+3. [Downloading and Installing the necessary library](https://github.com/RaamPujangga/Smoke-Alert-System-Via-Telegram/tree/master#3-download-and-install-necessary-library)
+4. [Downloading and Editing the Scripts](https://github.com/RaamPujangga/Smoke-Alert-System-Via-Telegram/tree/master#4-download-and-editing-the-scripts)
+5. [Testing](https://github.com/RaamPujangga/Smoke-Alert-System-Via-Telegram/tree/master#5-testing)
 
 Next time, I will make this tutorial on YouTube
 
